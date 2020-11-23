@@ -1,0 +1,6 @@
+discourse-transfer
+*.csv
+log*.txt
+topicviews_import.sql
+topics_redirects.php
+
